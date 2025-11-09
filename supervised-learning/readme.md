@@ -41,23 +41,7 @@
   <li>Interview and concept preparation</li>
 </ul>
 
-<h2>🧩 How to Use These Notebooks</h2>
 
-<p><strong>1. Clone the repository</strong></p>
-<pre>
-git clone https://github.com/Abssaltan/machine-learning.git
-cd machine-learning/supervised-learning
-</pre>
-
-<p><strong>2. Install dependencies</strong></p>
-<pre>
-pip install numpy pandas matplotlib scikit-learn
-</pre>
-
-<p><strong>3. Run a notebook</strong></p>
-<pre>
-jupyter notebook filename.ipynb
-</pre>
 
 <h2>📈 What You Will Learn</h2>
 <ul>
